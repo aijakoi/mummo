@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mummo/static/css/main.1b6ee428.css",
+    "main.js": "/mummo/static/js/main.7d503727.js",
+    "static/js/787.b1e50877.chunk.js": "/mummo/static/js/787.b1e50877.chunk.js",
+    "static/media/kuva3.png": "/mummo/static/media/kuva3.a2923fb8f0260e689ade.png",
+    "index.html": "/mummo/index.html",
+    "main.1b6ee428.css.map": "/mummo/static/css/main.1b6ee428.css.map",
+    "main.7d503727.js.map": "/mummo/static/js/main.7d503727.js.map",
+    "787.b1e50877.chunk.js.map": "/mummo/static/js/787.b1e50877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6ee428.css",
+    "static/js/main.7d503727.js"
+  ]
+}
